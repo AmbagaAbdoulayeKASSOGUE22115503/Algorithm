@@ -1,12 +1,4 @@
 /*-----------------------------------------------------------------*/
-/*
- Licence Informatique - Structures de données
- Mathias Paulin (Mathias.Paulin@irit.fr)
- 
- Implantation du TAD Stack étudié en cours.
- 
- */
-/*-----------------------------------------------------------------*/
 #ifndef __STACK_H__
 #define __STACK_H__
 #include <stdio.h>

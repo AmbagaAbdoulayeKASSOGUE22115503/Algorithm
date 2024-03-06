@@ -1,12 +1,4 @@
 /*-----------------------------------------------------------------*/
-/*
- Licence Informatique - Structures de données
- Mathias Paulin (Mathias.Paulin@irit.fr)
- 
- TAD de gestion d'éléments syntaxique pour les expressions arithmétiques
- 
- */
-/*-----------------------------------------------------------------*/
 #ifndef __TOKEN_H__
 #define __TOKEN_H__
 

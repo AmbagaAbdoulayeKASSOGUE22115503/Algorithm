@@ -1,12 +1,4 @@
 /*-----------------------------------------------------------------*/
-/*
- Licence Informatique - Structures de données
- Mathias Paulin (Mathias.Paulin@irit.fr)
- 
- Implantation du TAD Queue étudié en cours.
- 
- */
-/*-----------------------------------------------------------------*/
 #ifndef __QUEUE__H__
 #define __QUEUE__H__
 #include <stdio.h>

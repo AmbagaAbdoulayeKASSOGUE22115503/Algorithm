@@ -1,12 +1,4 @@
 /*-----------------------------------------------------------------*/
-/*
- Licence Informatique - Structures de données
- Mathias Paulin (Mathias.Paulin@irit.fr)
- 
- Interface pour l'implantation du TAD List vu en cours.
- */
-/*-----------------------------------------------------------------*/
-
 #ifndef __LIST_H__
 #define __LIST_H__
 

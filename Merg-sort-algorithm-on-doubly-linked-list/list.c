@@ -1,11 +1,4 @@
 /*-----------------------------------------------------------------*/
-/*
- Licence Informatique - Structures de données
- Mathias Paulin (Mathias.Paulin@irit.fr)
- 
- Implantation du TAD List vu en cours.
- */
-/*-----------------------------------------------------------------*/
 #include <stdio.h>
 #
 #include <stdlib.h>

@@ -1,25 +1,10 @@
 /*-------------------------------------------------------------------
-		Licence Informatique - Structures de données
-		Mathias Paulin (Mathias.Paulin@irit.fr)
--------------------------------------------------------------------*/
-/**
-\mainpage
- \section TP3 Implantation et extension d'un TAD
- \subsection Objectifs Objectifs du TP :
-    - Implantation du TAD List étudié en cours.
-	- Représentation par liste doublement chainée avec sentinelle.
-	- Ajout d'un opérateur de tri (algorithme de tri fusion)
- \subsection Resultats Resultats attendus
- \subsubsection Exercice1 Exercice 1
- \code{.unparsed}
  $ ./list_test 1
  -------- TEST PUSH_BACK --------
  List (10) : 0 1 2 3 4 5 6 7 8 9
  $
  \endcode
  
- \subsubsection Exercice2 Exercice 2
- \code{.unparsed}
  $ ./list_test 2
  -------- TEST PUSH_BACK --------
  List (10) : 0 1 2 3 4 5 6 7 8 9
@@ -28,9 +13,7 @@
  Sum is 45
  $
  \endcode
- 
- \subsubsection Exercice3 Exercice 3
- \code{.unparsed}
+
  $ ./list_test 3
  -------- TEST PUSH_BACK --------
  List (10) : 0 1 2 3 4 5 6 7 8 9
@@ -46,8 +29,6 @@
  $
  \endcode
  
- \subsubsection Exercice4 Exercice 4
- \code{.unparsed}
  $./list_test 4
  -------- TEST PUSH_BACK --------
  List (10) : 0 1 2 3 4 5 6 7 8 9
@@ -69,9 +50,7 @@
  List (10) : 0 1 2 3 4 5 6 7 8 9
  $
  \endcode
- 
- \subsubsection Exercice5 Exercice 5
- \code{.unparsed}
+
  $./list_test 5
  -------- TEST SORT	--------
  Unsorted list    : List (8) : 5 3 4 1 6 2 3 7

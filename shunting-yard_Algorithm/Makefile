@@ -10,7 +10,7 @@ else
 	LDFLAGS +=
 endif
 
-EXEC=expr_ex1
+EXEC=expr_ex
 SRC= $(wildcard *.c)
 OBJ= $(SRC:.c=.o)
 
@@ -31,7 +31,7 @@ $(EXEC): $(OBJ)
 .PHONY: clean mrproper
 
 clean:
-	@rm -rf *.o
+	@rm -rf *.o $(EXEC)
 
 mrproper: clean
 	@rm -rf $(EXEC) documentation/html

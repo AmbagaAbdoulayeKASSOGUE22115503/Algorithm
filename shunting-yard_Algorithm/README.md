@@ -35,3 +35,8 @@ L'algorithme de Shunting Yard est un algorithme utilisé pour convertir une expr
    * Si on rencontre un opérande, on le place sur la pile.
    * Si on rencontre un opérateur, on dépile les deux derniers opérandes de la pile, on applique l'opérateur à ces opérandes, puis on place le résultat sur la pile.
    * Une fois que la file d'attente est parcourue, le résultat final se trouve au sommet de la pile.
+
+### Exécution:
+Pour l'exécution il faut taper dans l'ordre dans un terminal les commandes suivantes:
+1. $ make
+2. $ ./expr_ex arithmeticExpression.txt
